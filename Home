@@ -1,0 +1,124 @@
+#EXTM3U 
+
+#EXTINF: -1 tvg-id = "DATA" tvg-name = "DATA" tvg-chno = "1" tvg-logo = "Linkfeelogoog" group-title = 
+
+"DATA", DATA
+
+#EXTINF: -1 tvg-id = "HBO" tvg-name = "HBO" tvg-chno = "" tvg-logo = "" group-title = "Cine", HBO
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "HBO2" tvg-name = "HBO2" tvg-chno = "" tvg-logo = "" group-title = "Cine", HBO2
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "HBOPLUS" tvg-name = "HBOPLUS" tvg-chno = "" tvg-logo = "" group-title = "Cine", 
+
+HBOPLUS
+https://is-tucuman.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "HBOPOP" tvg-name = "HBOPOP" tvg-chno = "" tvg-logo = "" group-title = "Cine", 
+
+HBOPOP
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "TNT" tvg-name = "TNT" tvg-chno = "" tvg-logo = "" group-title = "Cine", TNT
+https://is-tucuman.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "WARNERBROSS" tvg-name = "WARNERBROSS" tvg-chno = "" tvg-logo = "" group-title = 
+
+"Cine", WARNERBROSS
+https://is-tucuman.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "ESTUDIOUNIVERSAL" tvg-name = "ESTUDIOUNIVERSAL" tvg-chno = "" tvg-logo = "" group-
+
+title = "Cine", ESTUDIOUNIVERSAL
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+#EXTINF: -1 tvg-id = "PARAMOUNT" tvg-name = "PARAMOUNT" tvg-chno = "" tvg-logo = "" group-title = "Cine", 
+
+PARAMOUNT
+https://is-tucuman.cdn.rcs.net.ar/mnp/paramount_hls/playlist_500000_Video.m3u8
+
+#EXTINF: -1 tvg-id = "CINEMAX" tvg-name = "CINEMAX" tvg-chno = "" tvg-logo = "" group-title = "Cine", 
+
+CINEMAX
+https://is-tucuman.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "AXN" tvg-name = "AXN" tvg-chno = "" tvg-logo = "" group-title = "Cine", AXN
+https://is-tucuman.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "CINECANAL" tvg-name = "CINECANAL" tvg-chno = "" tvg-logo = "" group-title = "Cine", 
+
+CINECANAL
+https://is-tucuman.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "AMC" tvg-name = "AMC" tvg-chno = "" tvg-logo = "" group-title = "Cine", AMC
+https://is-tucuman.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "SONYCHANEL" tvg-name = "SONYCHANEL" tvg-chno = "" tvg-logo = "" group-title = 
+
+"Cine", SONYCHANEL
+https://is-tucuman.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "SPACE" tvg-name = "SPACE" tvg-chno = "" tvg-logo = "" group-title = "Cine", SPACE
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
+
+#EXTINF: -1 tvg-id = "TNTSERIES" tvg-name = "TNTSERIES" tvg-chno = "" tvg-logo = "" group-title = "Cine", 
+
+TNTSERIES
+https://is-tucuman.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "CENTRAL COMEDY" tvg-name = "CENTRAL COMEDY" tvg-chno = "" tvg-logo = "" group-title 
+
+= "Cine", CENTRAL COMEDY
+https://is-tucuman.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "UNIVERSALTV" tvg-name = "UNIVERSALTV" tvg-chno = "" tvg-logo = "" group-title = 
+
+"Cine", UNIVERSALTV
+https://is-tucuman.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "FX" tvg-name = "FX" tvg-chno = "" tvg-logo = "" group-title = "Cine", FX
+https://is-tucuman.cdn.rcs.net.ar/mnp/fx_hls/playlist_2500000_Video.m3u8
+
+
+
+#EXTINF: -1 tvg-id = "TyC SPORT" tvg-name = "TyC SPORT" tvg-chno = "" tvg-logo = "" group-title = 
+
+"Deportes", TyC SPORT
+https://stream.dlivecdn.com/dlive/transcode-89-110/timitonym/1668436145/src/live.m3u8
+
+#EXTINF: -1 tvg-id = "ESPN" tvg-name = "ESPN" tvg-chno = "" tvg-logo = "" group-title = "Deportes", ESPN
+https://stream.dlivecdn.com/dlive/transcode-72-37/autoblancos/1668403222/src/live.m3u8
+
+#EXTINF: -1 tvg-id = "ESPNEXTRA" tvg-name = "ESPNEXTRA" tvg-chno = "" tvg-logo = "" group-title = 
+
+"Deportes", ESPNEXTRA
+https://is-tucuman.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "ESPNPREMIUN" tvg-name = "ESPNPREMIUN" tvg-chno = "" tvg-logo = "" group-title = 
+
+"Deportes", ESPNPREMIUN
+https://is-tucuman.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id = "CLAROSPORT" tvg-name = "CLAROSPORT" tvg-chno = "" tvg-logo = "" group-title = 
+
+"Deportes", CLAROSPORT
+https://dai.google.com/linear/hls/pa/event/MErimHzcQJyFY4sABtO2Lg/stream/755c1265-4888-4034-848b-b07e2c89c894:SCL/variant/ea246b51d4eb25a6e2de567309938ef0/bandwidth/2407000.m3u8
+
+#EXTINF: -1 tvg-id = "MOVISTARDEPORTES" tvg-name = "MOVISTARDEPORTES" tvg-chno = "" tvg-logo = "" group-
+
+title = "Deportes", MOVISTARDEPORTES
+https://cdn.castmax.live/hls/golperu.m3u8?token=u6GHaE9vA8X1eVmI7AD-4A&expires=1668655401
+
+#EXTINF: -1 tvg-id = "FOXSPORT3" tvg-name = "FOXSPORT3" tvg-chno = "" tvg-logo = "" group-title = 
+
+"Deportes", FOXSPORT3
+https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+
+
+
+#EXTINF: -1 tvg-id = "TOONCAST" tvg-name = "TOONCAST" tvg-chno = "" tvg-logo = "" group-title = 
+
+"Infantil", TOONCAST
+https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
